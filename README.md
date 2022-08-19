@@ -1,2 +1,19 @@
 # COP-2800-FA22
-All my Code for the HCC COP-2800 Fall 2022 Java Programming Course
+
+## Structure
+
+```
+COP-2800-FA22
+│   README.md
+│   template.docx    
+│
+└───Assignment 1.1
+│   file011.txt
+│   file012.txt
+│   
+└───Assignment 1.2
+    │   file021.txt
+    │   file022.txt
+```
+
+Each assignment gets its own folder for a monorepo like approach
