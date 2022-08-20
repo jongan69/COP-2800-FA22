@@ -20,4 +20,4 @@ Each assignment gets its own folder for a monorepo like approach
 
 First assignment has full project, rest just contain necessary files unless otherwise needed for compile
 
-All code is also on my profile at [REPL.IT]<https://replit.com/@jongan69>
+All code is also on my profile at [REPL.IT](https://replit.com/@jongan69)
